@@ -70,12 +70,12 @@ Development & automation of product build and delivery, maintenance & operations
 
 <p>Tech stack:</p>
 <ul>
-<li> Configuration and infrastructure management: Ansible, Salt,Terraform, Packer, Bash and Python.
-<li> Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics
-<li> Messaging systems: RabbitMQ and Kafka
-<li> CI/CD and build: Jenkins, docker, nexus
-<li> Application languages: Java ,Go, Angular, PHP.
-* Database: Mysql, Postgres and mongodb.
+<li> Configuration and infrastructure management: Ansible, Salt,Terraform, Packer, Bash and Python. </li>
+<li> Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics </li>
+<li> Messaging systems: RabbitMQ and Kafka </li>
+<li> CI/CD and build: Jenkins, docker, nexus </li>
+<li> Application languages: Java ,Go, Angular, PHP. </li>
+<li> Database: Mysql, Postgres and mongodb. </li>
 </ul> 
 
 </p>

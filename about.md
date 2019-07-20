@@ -81,6 +81,7 @@ Development & automation of product build and delivery, maintenance & operations
 </p>
 </details>
 
+<br>
 
 # EDUCATION
 
@@ -130,6 +131,7 @@ Development & automation of product build and delivery, maintenance & operations
 </p>
 </details>
 
+<br>
 
 
 ##  ESEN - Escola Secundária Emídio Navarro

@@ -3,7 +3,7 @@ name: "Fsociety"
 title: "Bien venidos"
 description: " 'Immagination > Intelligence' by Albert Einstein"
 meta_description: "nothing"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/fsociety.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
@@ -15,6 +15,14 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  alex:
     name: Alexandre Sequeira
     display_name: Mr.Sequeira
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -22,14 +30,6 @@ authors:
     web: https://mrsequeira.github.io
     #twitter: https://twitter.com/wowthemesnet
     description: "Author of this shity website."
-  # john:
-  #   name: John
-  #   display_name: John
-  #   gravatar: b1cc14991db7a456fcd761680bbc8f81
-  #   email: wowthemesnet@gmail.com
-  #   web: https://www.wowthemes.net/category/jekyll-themes/
-  #   twitter: https://twitter.com/wowthemesnet
-  #   description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins: 

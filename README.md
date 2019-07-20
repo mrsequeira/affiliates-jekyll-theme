@@ -3,10 +3,10 @@ https://mrsequeira.github.io/affiliates-jekyll-theme/
 
 
 ## Initial content Type
-* CV
-* Projects
-* Hobbies/Interested areas(non computer science too!)
-* Educational 
+- [x] CV
+- [ ] Projects
+- [ ] Hobbies/Interested areas(non computer science too!)
+- [ ] Educational 
 Simple.Precise.5 levels of dificulty.
 
 

@@ -28,6 +28,8 @@ comments: true
 </a>
 </div>
 
+<br>
+
 #### Navigation:
 
 [SKILLS](#skills)
@@ -54,23 +56,27 @@ comments: true
 <details><summary>More details</summary>
 <p>
 
-Development & automation of product build and delivery, maintenance & operations tasks and testing. Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide configuration management, IaaC, CI/CD and monitorizati  on for Jumia services applications.
+Development & automation of product build and delivery, maintenance & operations tasks and testing. Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide configuration management, IaaC, CI/CD and monitorization for Jumia services applications.
 
-Roles:
-* Design, implement and maintenance of systems used by a variety of application using different tech stacks.
-* Implementation and maintenance of monitoring tools like new relic, google analytics(SPA), exporters for sql, postgres and mysql databases to report information to slack  and grafana dashboards.
-* Helping development teams by automating some usual tasks using rundeck, ansible and write python & bash scripts.
-* Migration of configuration management from salt to ansible.
-* Investigation, documentation and code review.
+<p>Roles:</p>
+<ul>
+<li> Design, implement and maintenance of systems used by a variety of application using different tech stacks. </li>
+<li> Implementation and maintenance of monitoring tools like new relic, google analytics(SPA), exporters for sql, postgres and mysql databases to report information to slack  and grafana dashboards. </li>
+<li> Helping development teams by automating some usual tasks using rundeck, ansible and write python & bash scripts.  </li>
+<li> Migration of configuration management from salt to ansible. </li>
+<li> Investigation, documentation and code review. </li>
+</ul> 
 
-Tech stack: 
-* Configuration and infrastructure management: Ansible, Salt,Terraform, Packer, Bash and Python.
-* Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics
-* Messaging systems: RabbitMQ and Kafka
-* CI/CD and build: Jenkins, docker, nexus
-* Application languages: Java ,Go, Angular, PHP.
+
+<p>Tech stack:</p>
+ <ul>
+<li> Configuration and infrastructure management: Ansible, Salt,Terraform, Packer, Bash and Python.
+<li> Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics
+<li> Messaging systems: RabbitMQ and Kafka
+<li> CI/CD and build: Jenkins, docker, nexus
+<li> Application languages: Java ,Go, Angular, PHP.
 * Database: Mysql, Postgres and mongodb.
-
+</ul> 
 </p>
 </details>
 
@@ -89,28 +95,35 @@ Tech stack:
 <p>
 
 
-• Distributed Computing Administration
-IT Services, Infrastructure and Support
-IT Solution Definition and Design Considerations
-Running IT Infrastructure - Operations Considerations
-Service Management for IT and Cloud Services
+<p> Distributed Computing Administration </p>
+<ul>
+<li> IT Services, Infrastructure and Support </li> 
+<li> IT Solution Definition and Design Considerations </li> 
+<li> Running IT Infrastructure - Operations Considerations </li> 
+<li> Service Management for IT and Cloud Services </li> 
+</ul>
 
-• IBMCloud (PaaS and IaaS)
-Assisted IaaS Solution Design and Build
-IBM Cloud Essentials
-IBM Garage Method Classroom
+<p> IBMCloud (PaaS and IaaS) </p>
+<ul>
+<li> Assisted IaaS Solution Design and Build </li> 
+<li> IBM Cloud Essentials </li> 
+<li> IBM Garage Method Classroom </li> 
+</ul>
 
-• Infrastructure as a Code Fundamentals
-Introduction to Infrastructure As Code
-Provisioning and Managing Infrastructure with Terraform
+<p> Infrastructure as a Code Fundamentals </p>
+<ul>
+<li> Introduction to Infrastructure As Code </li> 
+<li> Provisioning and Managing Infrastructure with Terraform </li> 
+</ul>
 
-Tech stack: 
-* Languages: Bash, Python
-* OS: Unix/Linux
-* Cloud providers: Softlayer (IBM Cloud) and AWS
-* Configuration and infrastructure as a Code: Chef, Ansible and Terraform
-* Monitoring: Prometheus, Grafana 
-
+<p> Tech stack: </p>
+<ul>
+<li> Languages: Bash, Python </li>
+<li> OS: Unix/Linux </li>
+<li> Cloud providers: Softlayer (IBM Cloud) and AWS </li>
+<li> Configuration and infrastructure as a Code: Chef, Ansible and Terraform </li>
+<li> Monitoring: Prometheus, Grafana  </li>
+</ul>
 
 
 </p>

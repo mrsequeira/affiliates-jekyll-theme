@@ -7,6 +7,7 @@ comments: true
 # Alexandre Sequeira 
 <img src="./assets/images/CV/profile.png" width="90" height="100" />
 
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
 <a href="https://github.com/mrsequeira" >
 <img src="./assets/images/CV/Github.png" width="40">
 </a>
@@ -25,17 +26,16 @@ comments: true
 <img src="./assets/images/CV/email.png
 " width="43">
 </a>
-
+</div>
 
 #### Navigation:
 
-[SKILLS](#SKILLS)
-|| [EXPERIENCE](#EXPERIENCE)
-|| [EDUCATION](#EDUCATION)
-|| [CERTIFICATIONS](#CERTIFICATIONS)
-|| [LANGUAGES](#LANGUAGES)
-|| [EXTRACURRICULAR](#EXTRACURRICULAR)
-#   
+[SKILLS](#skills)
+|| [EXPERIENCE](#experience)
+|| [EDUCATION](#education)
+|| [CERTIFICATIONS](#certifications)
+|| [LANGUAGES](#languages)
+|| [EXTRACURRICULAR](#extracurricular)
 
 # SKILLS
 <b>Languages: </b> Python, Ruby, Javascript/CSS/HTML, C/C++, Java 
@@ -50,10 +50,11 @@ comments: true
 
 ## DevOps Engineer  - Jumia Services
 > December 2018-Present, Porto - Portugal
-<details><summary>  <b> More details</b> </summary>
+
+<details><summary>More details</summary>
 <p>
 
-Development & automation of product build and delivery, maintenance & operations tasks and testing. Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide configuration management, IaaC, CI/CD and monitorization for Jumia services applications.
+Development & automation of product build and delivery, maintenance & operations tasks and testing. Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide configuration management, IaaC, CI/CD and monitorizati  on for Jumia services applications.
 
 Roles:
 * Design, implement and maintenance of systems used by a variety of application using different tech stacks.
@@ -71,7 +72,6 @@ Tech stack:
 * Database: Mysql, Postgres and mongodb.
 
 </p>
-
 </details>
 
 
@@ -85,7 +85,7 @@ Tech stack:
 * Microsoft Student Partner - Workshops/Academy and helped in events and conferences.
 * IBM DevOps/Infrastructure as Code Academy for 3 months.
 
-<details><summary>  <b> read more...</b></summary>
+<details><summary>More details</summary>
 <p>
 
 
@@ -114,7 +114,6 @@ Tech stack:
 
 
 </p>
-
 </details>
 
 
@@ -158,7 +157,6 @@ database with ORM integration, etc.
 # EXTRACURRICULAR
 * Volunteered in Web Summit (2016 and 2017) and Banco Alimentar.
 
-#
 
 <center>
 <a href="#" >

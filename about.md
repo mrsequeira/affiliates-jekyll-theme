@@ -69,7 +69,7 @@ Development & automation of product build and delivery, maintenance & operations
 
 
 <p>Tech stack:</p>
- <ul>
+<ul>
 <li> Configuration and infrastructure management: Ansible, Salt,Terraform, Packer, Bash and Python.
 <li> Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics
 <li> Messaging systems: RabbitMQ and Kafka
@@ -77,6 +77,7 @@ Development & automation of product build and delivery, maintenance & operations
 <li> Application languages: Java ,Go, Angular, PHP.
 * Database: Mysql, Postgres and mongodb.
 </ul> 
+
 </p>
 </details>
 

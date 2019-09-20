@@ -7,6 +7,11 @@
 Simple.Precise.5 levels of dificulty.
 
 
+
+## Hat tip to:
+* https://en.gravatar.com/ -> Where I upload my gravatar to be showed on the blog posts
+* https://www.piliapp.com/emoji/in-blog/ -> Easy copy emoji on html code to your blog   
+
 ### Copyright
 
 Copyright (C) 2019 WowThemes.net.

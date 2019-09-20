@@ -1,9 +1,6 @@
-### Visit the website here:
-https://mrsequeira.github.io/affiliates-jekyll-theme/
-
-
 ## Initial content Type
 - [x] CV
+- [x] Personal life (blog sh*t)
 - [ ] Projects
 - [ ] Hobbies/Interested areas(non computer science too!)
 - [ ] Educational 

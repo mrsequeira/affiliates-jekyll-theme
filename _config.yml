@@ -4,7 +4,7 @@ title: "Bien venidos"
 description: " 'Immagination > Intelligence' by Albert Einstein"
 meta_description: "nothing"
 logo: 'assets/images/fsociety.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/icons/favicon.ico'
 paginate: 12
 baseurl: '/'
 email: 'creating@gmail.com'

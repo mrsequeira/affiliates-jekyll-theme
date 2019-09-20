@@ -6,10 +6,10 @@ image: assets/images/sept2019/PSX_20190906_204427.jpg
 author: alex
 featured: true
 ---
-Retrato da minha experiência, sitio que realmente tens que ir visitar, conselhos(não são conselhos de mãe ou avó para levares um bom casaquinho de malha) e um resumo de tudoooo!
+Retrato da minha experiência, local que mais me supreendeu, conselhos(não são conselhos de mãe ou avó para levares um bom casaquinho de malha) e um resumo de tudoooo!
 
 
-> Esta experiencia apenas relata a minha experiencia e não pretendo influenciar ou mudar a vossa opinião sobre um determinado sitio. Relembro também que muito provavelmente podem encontrar bastante mais informação detalhada sobre algumas coisas que aqui vou escrever.
+> Esta experiencia apenas relata a minha experiência e não pretendo influenciar ou mudar a vossa opinião sobre um determinado sitio.
 
 # Experiência
 
@@ -20,9 +20,12 @@ Olhando ao redor, as pessoas encontravam-se com largos sorrisos a acompanhar uma
 A caminho para o hotel <b> reparei logo que os gregos são as pessoas mais inteligentes do mundo... </b> Em qualquer leitura que elas façam precisam primeiro de resolver uma equação matemática (emoji here)
 Para terem como exemplo, um simples bom dia escreve-se: Καλημέρα (pronuncia-se: kaliméra)
 
-# Troféu de surpresa
+<iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="480" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-lol-ne3xrYlWtQFtC"></a></p>
 
-* Museum of Acropolis
+# Troféu de surpresa
+> O troféu é atribuido ao local que mais superou as expectativas de todas as experiências passadas
+
+## 🏆 Museum of Acropolis
 
 ![museum]({{ site.baseurl }}/assets/images/sept2019/museum.jpg)
 
@@ -50,6 +53,8 @@ Além de ter muita coisa para ver, a informação está muito bem construida e c
 Check my instagram to this:
 Colocar link do Instagram para verem mais fotos 
 
-Se você gostou, bota likezão belo e gostoso.Partilhem com os vossos avôs, netos, bisnetos e afilhados. Abreijos caros leitores.
+<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/3e1b4b95b16056ef89d87544a1b774cd.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:h    idden;"></iframe>
+
+Se você gostou, bota likezão belo, volumoso e gostoso. Partilhem com os vossos avôs, netos, bisnetos e afilhados. Abreijos caros leitores.
 
 [app-beat]: https://play.google.com/store/apps/details?id=gr.androiddev.taxibeat&hl=pt

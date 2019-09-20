@@ -6,9 +6,7 @@ image: assets/images/sept2019/PSX_20190906_204427.jpg
 featured: false
 ---
 
-<section class="intro full-width">
-    <img src="../assets/images/sept2019/PSX_20190906_204427.jpg"  />
-</section>
+<img src="../assets/images/sept2019/PSX_20190906_204427.jpg"  />
 
 > Esta experiencia apenas relata a minha experiencia e não pretendo influenciar ou mudar a vossa opinião sobre um determinado sitio. Relembro também que muito provavelmente podem encontrar bastante mais informação detalhada sobre algumas coisas que aqui vou escrever.
 
@@ -26,7 +24,7 @@ Para terem como exemplo, um simples bom dia escreve-se: Καλημέρα (como s
 
 * Museum of Acropolis
 
-<img src="../assets/images/sept2019/20190821_163906.jpg"  />
+<img src="../assets/images/sept2019/museum.jpg"  />
 
 <b>
 Este museu foi construido por cima de umas antigas casas que foram descobertas por arqueólogos! 

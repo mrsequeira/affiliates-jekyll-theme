@@ -35,17 +35,17 @@ Dentro do museu poderão ver todos os utensilios que eram utilizados pela comuni
 Além de ter muita coisa para ver, a informação está muito bem construida e contém por vezes explicações de como uma certa obra foi conservada/reconstruida. 
 
 # Carta na manga:
-🥭 Instalem a aplicação [Beat][app-beat], muito <b> semelhante ao Free Taxi ou uber </b> do qual conhecem. Isto porque se pedirem um taxi como um simples turista no meio da rua o preço que eles vos proponham pode chegar a ser 3x mais do que pagariam pela aplicação. 
+🥭 Instalem a aplicação [Beat][app-beat], muito <b> semelhante ao Free Taxi ou uber </b> , isto porque se pedirem um taxi como um simples turista no meio da rua o preço que eles vos propoêm pode chegar a ser 3x mais do que pagariam pela aplicação. 
 
 🥭 Caso não queiram andar de taxi, têem sempre a alternativa de andar de metro que por 1,40euro conseguem andar onde quiserem durante 90min.
 
 🥭 Se tiveres, leva sempre contigo o cartão de estudante porque em certos sitios até poderás entrar de graça! (isto é uma regra que se aplica para qualquer sitio que vás)
 
 # Resumo
-* People são bastante felizes e simpáticas <img src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f604.png" width=20 height=20>
-* Cultura ambiental espetacular, uma cidade mesmo muito limpa como também cerca de 80% das varandas que olhei tinham várias árvores como também vasos
-* Gastronomia muito boa e a um preço muito semelhante ao que estamos habituados em Portugal
-* Excelente lugar para festejares uma despedida de solteiro, mesmo que não te queiras casar
+* People são bastante felizes e simpáticas.
+* Cultura ambiental espetacular, uma cidade mesmo muito limpa como também cerca de 80% das varandas que olhei tinham várias árvores e plantas.
+* Gastronomia muito boa e a um preço muito semelhante ao que estamos habituados em Portugal.
+* Excelente lugar para festejares uma despedida de solteiro, mesmo que não te queiras casar.
 
 Check my instagram to this:
 Colocar link do Instagram para verem mais fotos 

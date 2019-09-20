@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Travel to Greece - Athens"
-categories: [ Travel, Greece, Athens ]
+title:  "Viajar até Grécia - Atenas"
+categories: [ Travel, Grécia, Atenas ]
 image: assets/images/sept2019/PSX_20190906_204427.jpg
 author: alex
 featured: true
 ---
+Retrato da minha experiência em Atenas, Grécias, sitio que realmente tens que ir visitar, conselhos(não são conselhos de mãe ou avó para levares um bom casaquinho de malha) e um resumo de tudoooo!
+
+
 > Esta experiencia apenas relata a minha experiencia e não pretendo influenciar ou mudar a vossa opinião sobre um determinado sitio. Relembro também que muito provavelmente podem encontrar bastante mais informação detalhada sobre algumas coisas que aqui vou escrever.
 
 # EXPERIÊNCIA

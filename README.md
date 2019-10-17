@@ -1,12 +1,10 @@
-## Initial content Type
+## Initial content Type aka Roadmap
 - [x] CV
 - [x] Personal life (blog sh*t)
-- [ ] Projects
+- [ ] Create logo + website name
 - [ ] Hobbies/Interested areas(non computer science too!)
-- [ ] Educational 
-Simple.Precise.5 levels of dificulty.
-
-
+- [ ] Projects
+- [ ] Educational (Simple.Precise.5 levels of dificulty.)
 
 ## Hat tip to:
 * https://en.gravatar.com/ -> Where I upload my gravatar to be showed on the blog posts

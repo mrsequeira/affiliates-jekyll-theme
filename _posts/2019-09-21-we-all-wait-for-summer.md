@@ -4,7 +4,7 @@ title:  "Viajar até Atenas, Grécia"
 categories: [ Travel, Grécia, Atenas ]
 image: assets/images/sept2019/PSX_20190906_204427.jpg
 author: alex
-featured: true
+featured: false
 ---
 Retrato da minha experiência, local que mais me supreendeu, conselhos(não são conselhos de mãe ou avó para levares um bom casaquinho de malha) e um resumo de tudoooo!
 

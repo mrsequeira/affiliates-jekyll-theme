@@ -2,7 +2,7 @@
 layout: post
 title:  "Desta vez fui a Florença e Siena"
 categories: [ Travel, Italy, Florence, Siena ]
-image: assets/images/out2019florencesiena/assets/images/out2019florencesiena/PSX_20190925_103925.jpg
+image: assets/images/out2019florencesiena/PSX_20190925_103925.jpg
 author: alex
 featured: true
 ---
@@ -12,14 +12,13 @@ Retrato da minha experiência, local que mais me supreendeu, conselhos(não são
 
 # Experiência
 
-Vocês mal dẽem umas pequenas pernadas percebem que Florença têem muita arte para vos oferecer. Tudo o que olham ao vosso redor é tudo enorme e com uma arquitetura xxx e isto não é por acaso! 
+Vocês mal dẽem umas pequenas pernadas percebem que Florença têem muita arte para vos oferecer. Tudo o que olham ao vosso redor é tudo enorme e com uma arquitetura renascentista e isto não é por acaso! 
 Por exemplo, numa cidade como no Porto, facilmente vemos casas que se encontram abandonadas ou sêem qualquer pessoa a viver lá... Isto não acontence em Florença! As próprias camaras municipais defendem e investem na reconstrução e conservação das casas, preservando sempre a fachada antigua!
 
+Os andares são mesmo altos, fazendo-me pensar ainda que em florença apenas vivem Titans...
+Passei também pela famosa ponte de Florença e que por dentro está só recheada de mini ouriversarias, sinceramente não sei como é que ainda não caiu com o peso todo do ouro e diamantes.
 
-Tal como na Grécias, as pessoas assemelham-se bastante aos Portugueses!
-
-Os andares são mesmo altos, fazendo-me pensar ainda que em florença apenas vivem Titans... 
-
+Sobre Siena, é pequena e acolhedora com uma arquitetura ainda medieval e cheia de natureza à sua volta! 
 
 
 # Troféu de surpresa
@@ -31,7 +30,7 @@ Os andares são mesmo altos, fazendo-me pensar ainda que em florença apenas viv
 
 É espetacularmente ENORME! Repara bem naquelas formigas humanas na imagemu!
 
-Foi aqui que eu percebi porque tanta gente falava que facilmente poderias ficar com a sindrome xxxx ao visitar coisas que realmene parecem de outro mundo.
+Foi aqui que eu percebi porque tanta gente falava que facilmente poderias ficar com a sindrome de [Firenze][stendhal] (mais conhecido por Stendhal mas depois parece que estou aqui a falar de secar a roupa à moda "antiga") ao visitar coisas que realmene parecem de outro mundo.
 Durante o dia conseguem facilmente ver que aquilo é enorme mas quando lá passam durante a noite a emoçáo ao olhar para lá é completamente exorbitante.
 
 
@@ -48,4 +47,5 @@ Durante o dia conseguem facilmente ver que aquilo é enorme mas quando lá passa
 
 Se você gostou, bota likezão belo, volumoso e gostoso. Partilhem com os vossos avôs, netos, bisnetos e afilhados. Abreijos caros leitores.
 
+[stendhal]: https://pt.wikipedia.org/wiki/S%C3%ADndrome_de_Stendhal
 [nfc-mean]: https://pt.wikipedia.org/wiki/Near_Field_Communication

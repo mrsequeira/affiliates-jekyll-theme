@@ -44,6 +44,8 @@ Durante o dia conseguem facilmente ver que aquilo é enorme mas quando lá passa
 # Resumo
 * Cmon, quem é que não gosta de uma pizza? Ainda para mais, possivelmente das melhores pizzas que poderás vir a comer!
 * Fiquei a perceber que uma cultura que prefere ver séries/filmes dublados às legendas têem enormes impactos na aprendizagem, por exemplo, do Inglês. 
+* Como prémio por teres leres esta porcaria toda, expresso aqui o meu agrado com a casa airbnb que estive em que tinha uma sanita com um design muito prático (men's will understand), vou deixar aqui a prova do crime:
+
 
 Se você gostou, bota likezão belo, volumoso e gostoso. Partilhem com os vossos avôs, netos, bisnetos e afilhados. Abreijos caros leitores.
 

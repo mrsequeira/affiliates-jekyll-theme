@@ -114,28 +114,28 @@ Interests on: Data analysis and machine learning
 <br>
 
 # EDUCATION
+------------
 
 ## IPT - Instituto Politécnico de Tomar 
 > 2015-2019, Portugal
 
-#### Master in Computer Engineering - Internet of Things </p>
-> Completed lectures: Software Engineering and Big Data
+#### Master in Computer Engineering - Internet of Things
+* Completed lectures: Software Engineering and Big Data
 
 <details><summary>More details</summary>
 <p>
 
-<H2>Software Engineering</h2>
+<h2>Software Engineering</h2>
 > Teacher: Renato Panda
 Developed project: Guardians of the hackathon, CRUD plaftform to manage teams and make registration.
 Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a development environment
 
 <p> Topics and roles:</p> 
-<ul>
-<li>  Team leader, documentation and code review </li> 
-<li>  Build restfull API, SPAs and use ORM </li> 
-<li>  Developed authentication system using JWT </li> 
-<li>  CI/CD using Travis, Codeclimate and heroku to deploy the application </li> 
-</ul>
+* Team leader, documentation and code review  
+* Build restfull API, SPAs and use ORM 
+* Developed authentication system using JWT 
+* CI/CD using Travis, Codeclimate and heroku to deploy the applications
+
 
 <h2> Big data </h2>
 > Teacher: Ricardo Campos 
@@ -200,7 +200,7 @@ Application stack: Docker, Python, Pandas, jupyter notebook and
 
 ##  ESEN - Escola Secundária Emídio Navarro
 
-> 2077-Present, Location
+> 2012-2015, Viseu
 
 #### Upper Secondary Scientific and Technology
 
@@ -208,6 +208,7 @@ Application stack: Docker, Python, Pandas, jupyter notebook and
 
 
 # PROJECTS
+------------
 ## Zeus 
 > https://zeus-sec.herokuapp.com/
 
@@ -220,6 +221,7 @@ database with ORM integration, etc.
 
 
 # CERTIFICATIONS
+------------
 * MONGODB
 
     [ M001: MongoDB Basics](https://university.mongodb.com/course_completion/26de60a0-33f7-4040-b051-33eca5cc/printable)
@@ -229,12 +231,14 @@ database with ORM integration, etc.
 
 
 # LANGUAGES
+------------
 * Fluent in Portuguese and French
 * English, 8/10 writting and speaking
 * Spanish, 7/10 writting and speaking
 
 
 # EXTRACURRICULAR
+------------
 * Volunteered in Web Summit (2016 and 2017) and Banco Alimentar.
 
 

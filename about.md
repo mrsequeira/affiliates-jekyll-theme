@@ -49,22 +49,9 @@ Interests on: Data analysis and machine learning
 || [LANGUAGES](#languages)
 || [EXTRACURRICULAR](#extracurricular)
 
+------------
 # SKILLS
-<b>Languages: </b> Python, Ruby, Javascript/CSS/HTML, C/C++, Java 
 
-<b>Frameworks: </b> Flask, Ruby on rails, Node.js, Vue.js, .NET
-
-<b>DataBases: </b> PostgreSQL, MySQL, SQL server, SQLAlchemy(ORM)
-
-<b> DevOps: </b> Unix/Linux, AWS, Terraform, Ansible, Salt, Docker, Prometheus, Grafana, New relic, RabbitMQ, Kafka and Jenkins.
-
-# EXPERIENCE
-
-## DevOps Engineer  - Jumia Services
-> December 2018-Present, Porto - Portugal
-
-
-# SKILLS
 <b>Languages: </b> Python, Ruby, Javascript/CSS/HTML, C/C++, Java 
 
 <b>Frameworks: </b> Flask, Ruby on rails, Node.js, Vue.js, .NET
@@ -73,6 +60,7 @@ Interests on: Data analysis and machine learning
 
 <b> DevOps: </b> Unix/Linux, AWS, Terraform, Ansible, Salt, Docker, Prometheus, Grafana, New relic, RabbitMQ, Kafka and Jenkins.
 
+------------
 # EXPERIENCE	
 
 ## DevOps Engineer  - Jumia Services (e-commerce platform)
@@ -125,20 +113,21 @@ Interests on: Data analysis and machine learning
 <details><summary>More details</summary>
 <p>
 
-<h2>Software Engineering</h2>
-> Teacher: Renato Panda
+<h4>Software Engineering</h4>
+<i>  Teacher: Renato Panda </i> 
 Developed project: Guardians of the hackathon, CRUD plaftform to manage teams and make registration.
 Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a development environment
 
 <p> Topics and roles:</p> 
-* Team leader, documentation and code review  
-* Build restfull API, SPAs and use ORM 
-* Developed authentication system using JWT 
-* CI/CD using Travis, Codeclimate and heroku to deploy the applications
+<ul>
+<li> Team leader, documentation and code review  </li>
+<li> Build restfull API, SPAs and use ORM </li>
+<li> Developed authentication system using JWT </li>
+<li> CI/CD using Travis, Codeclimate and heroku to deploy the applications</li>
+<ul>
 
-
-<h2> Big data </h2>
-> Teacher: Ricardo Campos 
+<h4> Big data </h4>	
+<i> Teacher: Ricardo Campos </i> 
 Developed project: Twimbre, application to do text analysis, text classification, sentiment analysis using twitter API
 Application stack: Docker, Python, Pandas, jupyter notebook and 
 
@@ -147,7 +136,7 @@ Application stack: Docker, Python, Pandas, jupyter notebook and
 <li> Framewokrs to data storage and processing using pySpark </li> 
 <li> Implementation of sentiment analysis and use of pandas to manipulate and visualize data </li> 
 <li>  Development of Jupyter notebooks using python </li> 
-</ul>
+<ul>
 
 </p>
 </details>
@@ -206,9 +195,9 @@ Application stack: Docker, Python, Pandas, jupyter notebook and
 
 
 
-
-# PROJECTS
 ------------
+# PROJECTS
+
 ## Zeus 
 > https://zeus-sec.herokuapp.com/
 
@@ -219,9 +208,9 @@ mechanisms, RESTful API, scripting (Python), development/production environments
 database with ORM integration, etc.
 
 
-
-# CERTIFICATIONS
 ------------
+# CERTIFICATIONS
+
 * MONGODB
 
     [ M001: MongoDB Basics](https://university.mongodb.com/course_completion/26de60a0-33f7-4040-b051-33eca5cc/printable)
@@ -229,16 +218,16 @@ database with ORM integration, etc.
     [ M040: New Features and Tools in MongoDB 4.0](https://university.mongodb.com/course_completion/88cd3af7-fb2f-420d-b917-4c58af4d/printable)
 
 
-
-# LANGUAGES
 ------------
+# LANGUAGES
+
 * Fluent in Portuguese and French
 * English, 8/10 writting and speaking
 * Spanish, 7/10 writting and speaking
 
-
-# EXTRACURRICULAR
 ------------
+# EXTRACURRICULAR
+
 * Volunteered in Web Summit (2016 and 2017) and Banco Alimentar.
 
 

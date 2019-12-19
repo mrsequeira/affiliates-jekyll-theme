@@ -1,11 +1,21 @@
 ---
 layout: page
-title: CV 
+title: Alexandre Sequeira
 comments: true
 ---
 
-# Alexandre Sequeira 
-<img src="./assets/images/CV/profile.png" width="90" height="100" />
+## About Me
+
+<img class="profile-picture" src="./assets/images/CV/profile.png" width="90" height="100" />
+
+Hi! I'm a big enthusiast of Systems architecture and software development.
+
+I'm driven of always doing the right think and I have a very positive approach on everything that challenges me.
+Also like to write and prototyping new approaches to the problems.
+I have huge curiosity to learn new technologies, programming languages and paradigms.
+
+Interests on: Data analysis and machine learning
+
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
 <a href="https://github.com/mrsequeira" >
@@ -67,8 +77,6 @@ comments: true
 
 ## DevOps Engineer  - Jumia Services (e-commerce platform)
 > December 2018-Present, Porto - Portugal
-
-</details>
 
 <details><summary>  <b> More details</b> </summary>
 <p>

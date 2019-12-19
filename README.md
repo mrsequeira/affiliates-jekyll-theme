@@ -9,6 +9,7 @@
 ## Hat tip to:
 * https://en.gravatar.com/ -> Where I upload my gravatar to be showed on the blog posts
 * https://www.piliapp.com/emoji/in-blog/ -> Easy copy emoji on html code to your blog   
+* https://github.com/ankitsultana/researcher -> Inspiration for some parts of the blog
 
 ### Copyright
 

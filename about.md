@@ -53,30 +53,52 @@ comments: true
 ## DevOps Engineer  - Jumia Services
 > December 2018-Present, Porto - Portugal
 
-<details><summary>More details</summary>
-<p>
 
-Development & automation of product build and delivery, maintenance & operations tasks and testing. Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide configuration management, IaaC, CI/CD and monitorization for Jumia services applications.
+# SKILLS
+<b>Languages: </b> Python, Ruby, Javascript/CSS/HTML, C/C++, Java 
+
+<b>Frameworks: </b> Flask, Ruby on rails, Node.js, Vue.js, .NET
+
+<b>DataBases: </b> PostgreSQL, MySQL, SQL server, MongoDB, SQLAlchemy(ORM)
+
+<b> DevOps: </b> Unix/Linux, AWS, Terraform, Ansible, Salt, Docker, Prometheus, Grafana, New relic, RabbitMQ, Kafka and Jenkins.
+
+# EXPERIENCE	
+
+## DevOps Engineer  - Jumia Services (e-commerce platform)
+> December 2018-Present, Porto - Portugal
+
+</details>
+
+<details><summary>  <b> More details</b> </summary>
+<p>
 
 <p>Roles:</p>
 <ul>
-<li> Design, implement and maintenance of systems used by a variety of application using different tech stacks. </li>
-<li> Implementation and maintenance of monitoring tools like new relic, google analytics(SPA), exporters for sql, postgres and mysql databases to report information to slack  and grafana dashboards. </li>
-<li> Helping development teams by automating some usual tasks using rundeck, ansible and write python & bash scripts.  </li>
-<li> Migration of configuration management from salt to ansible. </li>
-<li> Investigation, documentation and code review. </li>
-</ul> 
+<li> Design, implement and maintenance of systems of Jumia services applications(Marketplace - search, orders, sellers and logistics)</li>
+<li>  Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide CaaC, IaaC, CI/CD and monitorization</li>
+<li> Investigation, documentation and code review</li>
+</ul>
 
-
-<p>Tech stack:</p>
+<p>Development:</p>
 <ul>
-<li> Configuration and infrastructure management: Ansible, Salt,Terraform, Packer, Bash and Python. </li>
-<li> Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics </li>
-<li> Messaging systems: RabbitMQ and Kafka </li>
-<li> CI/CD and build: Jenkins, docker, nexus </li>
-<li> Application languages: Java ,Go, Angular, PHP. </li>
-<li> Database: Mysql, Postgres and mongodb. </li>
-</ul> 
+<li> Implemented and migrated google maps service to Openstreetmaps</li>
+<li> Migrated and developed a HA infrastructure for docker registry(Distribution)</li>
+<li> Developed jenkins pipelines to build and deploy applications	</li>
+<li> Migration of configuration management from salt to ansible</li>
+<li> Helping development teams by automating some usual tasks using rundeck, ansible and write python & bash scripts</li>
+</ul>
+
+
+<p>Tech stack: </p>
+<ul>
+<li> Configuration and infrastructure management: Ansible, Salt, Docker, Terraform, Packer, Bash and Python</li>
+<li> Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics, OpsGenie</li>
+<li> Messaging systems: RabbitMQ and Kafka</li>
+<li> CI/CD: Jenkins, Rundeck, docker registry, nexus</li>
+<li> Application languages: Java, Go, Javascript(Angular and Vue.js) and  PHP</li>
+<li> Database: Mysql, MariaDB, PostgreSQL and MongoDB</li>
+<ul>
 
 </p>
 </details>
@@ -87,6 +109,40 @@ Development & automation of product build and delivery, maintenance & operations
 
 ## IPT - Instituto Politécnico de Tomar 
 > 2015-2019, Portugal
+
+#### Master in Computer Engineering - Internet of Things </p>
+> Completed lectures: Software Engineering and Big Data
+
+<details><summary>More details</summary>
+<p>
+
+<H2>Software Engineering</h2>
+> Teacher: Renato Panda
+Developed project: Guardians of the hackathon, CRUD plaftform to manage teams and make registration.
+Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a development environment
+
+<p> Topics and roles:</p> 
+<ul>
+<li>  Team leader, documentation and code review </li> 
+<li>  Build restfull API, SPAs and use ORM </li> 
+<li>  Developed authentication system using JWT </li> 
+<li>  CI/CD using Travis, Codeclimate and heroku to deploy the application </li> 
+</ul>
+
+<h2> Big data </h2>
+> Teacher: Ricardo Campos 
+Developed project: Twimbre, application to do text analysis, text classification, sentiment analysis using twitter API
+Application stack: Docker, Python, Pandas, jupyter notebook and 
+
+<p> Topics and roles:</p> 
+<ul>
+<li> Framewokrs to data storage and processing using pySpark </li> 
+<li> Implementation of sentiment analysis and use of pandas to manipulate and visualize data </li> 
+<li>  Development of Jupyter notebooks using python </li> 
+</ul>
+
+</p>
+</details>
 
 #### Bachelor - Computer Engineering
 * General secretary and Vice President of NEEIT.

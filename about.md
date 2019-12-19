@@ -106,7 +106,7 @@ Interests on: Data analysis and machine learning
 <li> CI/CD: Jenkins, Rundeck, docker registry, nexus</li>
 <li> Application languages: Java, Go, Javascript(Angular and Vue.js) and  PHP</li>
 <li> Database: Mysql, MariaDB, PostgreSQL and MongoDB</li>
-<ul>
+</ul>
 
 </p>
 </details>

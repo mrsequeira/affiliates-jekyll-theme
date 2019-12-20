@@ -69,14 +69,14 @@ Interests on: Data analysis and machine learning
 <details><summary>  <b> More details</b> </summary>
 <p>
 
-<p>Roles:</p>
+<b>Roles:</b>
 <ul>
 <li> Design, implement and maintenance of systems of Jumia services applications(Marketplace - search, orders, sellers and logistics)</li>
-<li>  Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide CaaC, IaaC, CI/CD and monitorization</li>
+<li> Build reliable, high-performance, auto scaled and fault tolerant software by using tools to provide CaaC, IaaC, CI/CD and monitorization</li>
 <li> Investigation, documentation and code review</li>
 </ul>
 
-<p>Development:</p>
+<b>Development:</b>
 <ul>
 <li> Implemented and migrated google maps service to Openstreetmaps</li>
 <li> Migrated and developed a HA infrastructure for docker registry(Distribution)</li>
@@ -86,7 +86,7 @@ Interests on: Data analysis and machine learning
 </ul>
 
 
-<p>Tech stack: </p>
+<b>Tech stack: </b>
 <ul>
 <li> Configuration and infrastructure management: Ansible, Salt, Docker, Terraform, Packer, Bash and Python</li>
 <li> Monitoring: Prometheus, Grafana, Newrelic, Icinga, Google analytics, OpsGenie</li>
@@ -115,10 +115,12 @@ Interests on: Data analysis and machine learning
 
 <h4>Software Engineering</h4>
 <i>  Teacher: Renato Panda </i> 
+
 Developed project: Guardians of the hackathon, CRUD plaftform to manage teams and make registration.
+
 Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a development environment
 
-<p> Topics and roles:</p> 
+<b> Topics and roles:</b> 
 <ul>
 <li> Team leader, documentation and code review  </li>
 <li> Build restfull API, SPAs and use ORM </li>
@@ -128,18 +130,21 @@ Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a de
 
 <h4> Big data </h4>	
 <i> Teacher: Ricardo Campos </i> 
+
 Developed project: Twimbre, application to do text analysis, text classification, sentiment analysis using twitter API
+
 Application stack: Docker, Python, Pandas, jupyter notebook and 
 
-<p> Topics and roles:</p> 
+<b> Topics and roles:</b> 
 <ul>
 <li> Framewokrs to data storage and processing using pySpark </li> 
 <li> Implementation of sentiment analysis and use of pandas to manipulate and visualize data </li> 
-<li>  Development of Jupyter notebooks using python </li> 
+<li> Development of Jupyter notebooks using python </li> 
 <ul>
 
 </p>
 </details>
+<br>
 
 #### Bachelor - Computer Engineering
 * General secretary and Vice President of NEEIT.
@@ -149,8 +154,7 @@ Application stack: Docker, Python, Pandas, jupyter notebook and
 <details><summary>More details</summary>
 <p>
 
-
-<p> Distributed Computing Administration </p>
+<b> Distributed Computing Administration </b>
 <ul>
 <li> IT Services, Infrastructure and Support </li> 
 <li> IT Solution Definition and Design Considerations </li> 
@@ -158,20 +162,20 @@ Application stack: Docker, Python, Pandas, jupyter notebook and
 <li> Service Management for IT and Cloud Services </li> 
 </ul>
 
-<p> IBMCloud (PaaS and IaaS) </p>
+<b> IBMCloud (PaaS and IaaS) </b>
 <ul>
 <li> Assisted IaaS Solution Design and Build </li> 
 <li> IBM Cloud Essentials </li> 
 <li> IBM Garage Method Classroom </li> 
 </ul>
 
-<p> Infrastructure as a Code Fundamentals </p>
+<b> Infrastructure as a Code Fundamentals </b>
 <ul>
 <li> Introduction to Infrastructure As Code </li> 
 <li> Provisioning and Managing Infrastructure with Terraform </li> 
 </ul>
 
-<p> Tech stack: </p>
+<b> Tech stack: </b>
 <ul>
 <li> Languages: Bash, Python </li>
 <li> OS: Unix/Linux </li>

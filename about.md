@@ -32,7 +32,7 @@ Interests on: Data analysis and machine learning
 " width="43">
 </a>
 
-<a href="mailto:requestmefirst@hotmail.com?Subject=Hello%20again" >
+<a href="mailto:alex-sequeira@hotmail.com?Subject=HelloWorld" >
 <img src="./assets/images/CV/email.png
 " width="43">
 </a>
@@ -101,8 +101,8 @@ Interests on: Data analysis and machine learning
 
 <br>
 
-# EDUCATION
 ------------
+# EDUCATION
 
 ## IPT - Instituto Politécnico de Tomar 
 > 2015-2019, Portugal
@@ -116,11 +116,11 @@ Interests on: Data analysis and machine learning
 <h4>Software Engineering</h4>
 <i>  Teacher: Renato Panda </i> 
 
-Developed project: Guardians of the hackathon, CRUD plaftform to manage teams and make registration.
+<p>Developed project: Guardians of the hackathon, CRUD plaftform to manage teams and make registration.</p>
 
-Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a development environment
+<p>Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a development environment</p>
 
-<b> Topics and roles:</b> 
+<p><b> Topics and roles:</b> </p>
 <ul>
 <li> Team leader, documentation and code review  </li>
 <li> Build restfull API, SPAs and use ORM </li>
@@ -131,11 +131,11 @@ Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a de
 <h4> Big data </h4>	
 <i> Teacher: Ricardo Campos </i> 
 
-Developed project: Twimbre, application to do text analysis, text classification, sentiment analysis using twitter API
+<p>Developed project: Twimbre, application to do text analysis, text classification, sentiment analysis using twitter API</p>
 
-Application stack: Docker, Python, Pandas, jupyter notebook and 
+<p>Application stack: Docker, Python, Pandas and jupyter notebook </p>
 
-<b> Topics and roles:</b> 
+<p><b> Topics and roles:</b> </p>
 <ul>
 <li> Framewokrs to data storage and processing using pySpark </li> 
 <li> Implementation of sentiment analysis and use of pandas to manipulate and visualize data </li> 

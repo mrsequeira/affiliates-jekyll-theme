@@ -126,7 +126,7 @@ Application stack: Ruby on rails, ReactJS, PostgresSQL and using vagrant as a de
 <li> Build restfull API, SPAs and use ORM </li>
 <li> Developed authentication system using JWT </li>
 <li> CI/CD using Travis, Codeclimate and heroku to deploy the applications</li>
-<ul>
+</ul>
 
 <h4> Big data </h4>	
 <i> Teacher: Ricardo Campos </i> 
@@ -140,10 +140,11 @@ Application stack: Docker, Python, Pandas, jupyter notebook and
 <li> Framewokrs to data storage and processing using pySpark </li> 
 <li> Implementation of sentiment analysis and use of pandas to manipulate and visualize data </li> 
 <li> Development of Jupyter notebooks using python </li> 
-<ul>
+</ul>
 
 </p>
 </details>
+
 <br>
 
 #### Bachelor - Computer Engineering

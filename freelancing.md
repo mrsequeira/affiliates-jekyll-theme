@@ -162,11 +162,39 @@ section .section-title{
 }
 </style>
 
+<!-- <div class="col-md-6 grid-item">
+<div class="card">
+    <a href="{{ post.url | absolute_url }}">
+        {% if post.image %} <img class="img-fluid" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}"> {% endif %}
+    </a>
+    <div class="card-block">
+        <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+        <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+        <div class="metafooter">
+            <div class="wrapfooter">
+                {% if post.author %}
+                <span class="meta-footer-thumb">
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                </span>                
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                {% endif %}
+                <span class="post-date">{{ post.date | date_to_string }}</span>
+                </span>
+                <span class="post-read-more"><a href="{{ post.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div> -->
+
+
 <div class="container">
   <div class="row">
 
     <a href="https://www.python.org/" style="text-decoration:none"> 
-      <div class="col-lg-4 col-sm-8 mb-8">
+      <div class="col-md-6 grid-item">
         <div class="card">
           <div class="containern text-center">
               <img src="https://zeus-sec.herokuapp.com/static/img/favicon.png"  style="width:70% " >
@@ -177,7 +205,7 @@ section .section-title{
       </div>
     </a>
     <a href="https://www.python.org/" style="text-decoration:none"> 
-      <div class="col-lg-4 col-sm-8 mb-8">
+      <div class="col-md-6 grid-item">
         <div class="card">
           <div class="containern text-center">
               <img src="https://teia19.pt/assets/images/teia19.png"  style="width:70% " >
@@ -190,4 +218,11 @@ section .section-title{
 
   </div>
 
+</div>
+
+<div class="col-md-4 text-right footersocial">
+    <h5>Contact me to create your own website!</h5>
+    <i class="fa fa-facebook"></i>
+    <i class="fa fa-twitter"></i>
+    <i class="fa fa-github" ></i>
 </div>

@@ -216,7 +216,6 @@ section .section-title{
         </div>
       </a>
 
-  </div>
 </div> 
 
 <!-- colocar aqui secao de projetos que posso vir a fazer -->

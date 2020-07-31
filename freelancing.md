@@ -176,9 +176,6 @@ section .section-title{
       </div>
     </a>
     </div>
-  </div>
-
-  <div class="row">
     <a href="https://www.python.org/" style="text-decoration:none"> 
       <div class="col-lg-4 col-sm-8 mb-8">
         <div class="card">

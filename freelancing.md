@@ -219,6 +219,8 @@ section .section-title{
   </div>
 
 </div>
+</div> 
+
 
 <div class="col-md-4 text-right footersocial">
     <h5>Contact me to create your own website!</h5>
@@ -226,4 +228,3 @@ section .section-title{
     <i class="fa fa-twitter"></i>
     <i class="fa fa-github" ></i>
 </div>
-</div> 

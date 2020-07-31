@@ -161,7 +161,7 @@ section .section-title{
 	transition: .5s all ease;
 }
 </style>
-<div>
+<div class="container">
   <div class="row">
     <a href="https://www.python.org/" style="text-decoration:none"> 
     <div class="col">
@@ -178,17 +178,16 @@ section .section-title{
 
   <div class="row">
     <a href="https://www.python.org/" style="text-decoration:none"> 
-    <div class="col">
-      <div class="card">
-        <div class="containern text-center">
-            <img src="https://teia19.pt/assets/images/teia19.png"  style="width:70% " >
-            <h4><b>Teia 19</b></h4>
-            <h8><b>Website created during Corona virus time to help artists that had their shows cancelled.</b></h8> 
+      <div class="col">
+        <div class="card">
+          <div class="containern text-center">
+              <img src="https://teia19.pt/assets/images/teia19.png"  style="width:70% " >
+              <h4><b>Teia 19</b></h4>
+              <h8><b>Website created during Corona virus time to help artists that had their shows cancelled.</b></h8> 
+          </div>
         </div>
       </div>
     </a>
-    </div>
   </div>
-
-
+  
 </div>

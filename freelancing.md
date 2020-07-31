@@ -177,4 +177,3 @@ section .section-title{
 
 
   </div>
-</div>

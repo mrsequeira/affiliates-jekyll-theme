@@ -161,7 +161,6 @@ section .section-title{
 	transition: .5s all ease;
 }
 </style>
-<div class="container">
   <div class="row">
     <a href="https://www.python.org/" style="text-decoration:none"> 
     <div class="col-lg-4 col-sm-8 mb-8">
@@ -169,7 +168,7 @@ section .section-title{
         <div class="containern text-center">
             <img src="https://zeus-sec.herokuapp.com/static/img/favicon.png"  style="width:70% " >
             <h4><b>ZEUS</b></h4>
-            <h8><b>Website created for Bachelor final project to secure and manage machines.</b></h8> 
+            <h8>Website created for Bachelor final project to secure and manage machines./h8> 
         </div>
       </div>
     </a>
@@ -183,11 +182,9 @@ section .section-title{
           <div class="containern text-center">
               <img src="https://teia19.pt/assets/images/teia19.png"  style="width:70% " >
               <h4><b>Teia 19</b></h4>
-              <h8><b>Website created during Corona virus time to help artists that had their shows cancelled.</b></h8> 
+              <h8>Website created during Corona virus time to help artists that had their shows cancelled.</h8> 
           </div>
         </div>
       </div>
     </a>
   </div>
-
-</div>

@@ -79,7 +79,7 @@ Interests on: Data analysis and machine learning
 <b>Development:</b>
 <ul>
 <li> Implemented and migrated google maps service to Openstreetmaps</li>
-<li> Migrated and developed a HA infrastructure for docker registry(Distribution)</li>
+<li> Migrated and developed a HA infrastructure for in-house docker registry</li>
 <li> Developed jenkins pipelines to build and deploy applications	</li>
 <li> Migration of configuration management from salt to ansible</li>
 <li> Helping development teams by automating some usual tasks using rundeck, ansible and write python & bash scripts</li>

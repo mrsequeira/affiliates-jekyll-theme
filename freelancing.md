@@ -3,6 +3,7 @@ layout: page
 title: Alexandre Sequeira
 comments: true
 ---
+
 <style>  
   .card:hover {
       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -162,18 +163,16 @@ section .section-title{
 </style>
 
 <h2>Made and thanks to: </h2>
-    <div class="row">
+<div class="row">
 
-      <a href="https://www.python.org/" style="text-decoration:none"> 
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <div class="card">
-          <div class="containern text-center">
-              <img src="/assets/images/5.jpg"  style="width:50% " >
-              <h4><b>Python</b></h4> 
-          </div>
-        </div>
-      </a>
+  <a href="https://www.python.org/" style="text-decoration:none"> 
+  <div class="col-lg-2 col-sm-4 mb-4">
+    <div class="card">
+      <div class="containern text-center">
+          <img src="/assets/images/5.jpg"  style="width:50% " >
+          <h4><b>Python</b></h4> 
       </div>
-
-
+    </div>
+  </a>
   </div>
+</div>

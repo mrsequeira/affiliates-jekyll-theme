@@ -166,14 +166,14 @@ section .section-title{
 <div>
   <div class="row">
     <a href="https://www.python.org/" style="text-decoration:none"> 
-    <div class="col-lg-2 col-sm-4 mb-4">
+    <!-- <div class="col-lg-2 col-sm-4 mb-4"> -->
       <div class="card">
         <div class="containern text-center">
-            <img src="https://teia19.pt/assets/images/teia19.png"  style="width:50% " >
+            <img src="https://teia19.pt/assets/images/teia19.png"  style="width:100% " >
             <h4><b>Teia 19</b></h4> 
         </div>
       </div>
     </a>
-    </div>
+    <!-- </div> -->
   </div>
 </div>

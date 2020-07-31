@@ -193,17 +193,6 @@ section .section-title{
   <div class="container">
 
     <div class="row">
-        <div class="col-md-6 grid-item">
-          <a href="https://zeus-sec.herokuapp.com/" style="text-decoration:none"> 
-          <div class="card">
-            <div class="containern text-center">
-                <img src="https://zeus-sec.herokuapp.com/static/img/favicon.png"  style="width:70% " >
-                <h4><b>ZEUS</b></h4>
-                <h8>Website created for Bachelor final project to secure and manage machines.</h8> 
-            </div>
-          </div>
-        </div>
-      </a>
       <a href="https://teia19.pt" style="text-decoration:none"> 
         <div class="col-md-6 grid-item">
           <div class="card">
@@ -211,6 +200,17 @@ section .section-title{
                 <img src="https://teia19.pt/assets/images/teia19.png"  style="width:70% " >
                 <h4><b>Teia 19</b></h4>
                 <h8>Website, criado durante a época do Corona virus, para ajudar artistas que viram os seus eventos cancelados.</h8> 
+            </div>
+          </div>
+        </div>
+      </a>
+        <div class="col-md-6 grid-item">
+          <a href="https://zeus-sec.herokuapp.com/" style="text-decoration:none"> 
+          <div class="card">
+            <div class="containern text-center">
+                <img src="https://zeus-sec.herokuapp.com/static/img/favicon.png"  style="width:70% " >
+                <h4><b>ZEUS</b></h4>
+                <h8>Website criado para o projeto final de Licenciatura Informática para monitorizar e manter segurança de máquinas.</h8> 
             </div>
           </div>
         </div>

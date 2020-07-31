@@ -163,19 +163,19 @@ section .section-title{
 </style>
 
 <div class="container">
-
   <div class="row">
+
     <a href="https://www.python.org/" style="text-decoration:none"> 
-    <div class="col-lg-4 col-sm-8 mb-8">
-      <div class="card">
-        <div class="containern text-center">
-            <img src="https://zeus-sec.herokuapp.com/static/img/favicon.png"  style="width:70% " >
-            <h4><b>ZEUS</b></h4>
-            <h8>Website created for Bachelor final project to secure and manage machines.</h8> 
+      <div class="col-lg-4 col-sm-8 mb-8">
+        <div class="card">
+          <div class="containern text-center">
+              <img src="https://zeus-sec.herokuapp.com/static/img/favicon.png"  style="width:70% " >
+              <h4><b>ZEUS</b></h4>
+              <h8>Website created for Bachelor final project to secure and manage machines.</h8> 
+          </div>
         </div>
       </div>
     </a>
-    </div>
     <a href="https://www.python.org/" style="text-decoration:none"> 
       <div class="col-lg-4 col-sm-8 mb-8">
         <div class="card">
@@ -187,6 +187,7 @@ section .section-title{
         </div>
       </div>
     </a>
+
   </div>
 
 </div>

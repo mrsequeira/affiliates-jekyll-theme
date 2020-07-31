@@ -189,12 +189,12 @@ section .section-title{
 </div>
 </div> -->
 
+<div class="masonrygrid row listrecent">
 
 <div class="container">
   <div class="row">
-
-    <a href="https://www.python.org/" style="text-decoration:none"> 
       <div class="col-md-6 grid-item">
+        <a href="https://www.python.org/" style="text-decoration:none"> 
         <div class="card">
           <div class="containern text-center">
               <img src="https://zeus-sec.herokuapp.com/static/img/favicon.png"  style="width:70% " >
@@ -226,3 +226,4 @@ section .section-title{
     <i class="fa fa-twitter"></i>
     <i class="fa fa-github" ></i>
 </div>
+</div> 

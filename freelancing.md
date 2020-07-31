@@ -188,12 +188,10 @@ section .section-title{
     </div>
 </div>
 </div> -->
-
 <br>
 
 <div class="masonrygrid row listrecent">
   <div class="container">
-
     <div class="row">
       <a href="https://teia19.pt" style="text-decoration:none"> 
         <div class="col-md-6 grid-item">
@@ -217,7 +215,6 @@ section .section-title{
           </div>
         </div>
       </a>
-
 </div> 
 
 <!-- colocar aqui secao de projetos que posso vir a fazer -->

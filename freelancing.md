@@ -191,7 +191,7 @@ section .section-title{
 
 <div class="masonrygrid row listrecent">
   <div class="container">
-  
+
     <div class="row">
         <div class="col-md-6 grid-item">
           <a href="https://zeus-sec.herokuapp.com/" style="text-decoration:none"> 
@@ -215,7 +215,6 @@ section .section-title{
           </div>
         </div>
       </a>
-    </div>
 
   </div>
 </div> 

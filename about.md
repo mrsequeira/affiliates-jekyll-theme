@@ -52,19 +52,50 @@ Interests on: Data analysis and machine learning
 ------------
 # SKILLS
 
-<b>Languages: </b> Python, Ruby, Javascript/CSS/HTML, C/C++, Java 
+<b>Languages: </b> Python, Ruby, GO, Javascript/CSS/HTML, C/C++, Java 
 
 <b>Frameworks: </b> Flask, Ruby on rails, Node.js, Vue.js, .NET
 
 <b>DataBases: </b> PostgreSQL, MySQL, SQL server, MongoDB, SQLAlchemy(ORM)
 
-<b> DevOps: </b> Unix/Linux, AWS, Terraform, Ansible, Salt, Docker, Prometheus, Grafana, New relic, RabbitMQ, Kafka and Jenkins.
+<b> DevOps: </b> Unix/Linux, AWS, Azure, Terraform, Packer, Consul, Ansible, Salt, Docker, Prometheus, Grafana, New relic, RabbitMQ, Kafka and Jenkins.
 
 ------------
 # EXPERIENCE	
 
+## Infrastructure Engineer - Farfetch
+> January 2021 - Present, Lisbon - Portugal
+
+<details><summary>  <b> More details</b> </summary>
+<p>
+
+<b>Roles:</b>
+<ul>
+<li> Enable autonomy of engineering teams, abstracting the infrastructure layer</li>
+<li> Operate and maintain infrastructure components such as Linux based systems, configuration management and orchestration using automated processes.</li>
+</ul>
+
+<b>Development:</b>
+<ul>
+<li> Developed automated processes for internal code software. Created bare-bones of custom image building, schema validation and adaptation of how the instance provision obtain custom images from Azure gallery </li>
+<li> Created pipeline to perform a regular check of new elasticsearch version</li>
+<li> Implemented management of azure policies using terraform </li>
+</ul>
+
+<b>Tech stack: </b>
+<ul>
+<li> Configuration and infrastructure management: Salt, Docker, Consul, Terraform, Packer, Python(cerberus for testing) and GO</li>
+<li> Worked on Azure platform</li>
+<li> Other technologies: Jenkins, elasticsearch, kafka and logstash</li>
+</ul>
+
+</p>
+</details>
+
+<br>
+
 ## DevOps Engineer  - Jumia Services (e-commerce platform)
-> December 2018-Present, Porto - Portugal
+> December 2018 - December 2020, Porto - Portugal
 
 <details><summary>  <b> More details</b> </summary>
 <p>
@@ -203,6 +234,11 @@ Interests on: Data analysis and machine learning
 ------------
 # PROJECTS
 
+## Teia 19 
+> https://teia19.pt/
+
+During the covid-19 pandemic, I Created this website for TEIA19. It aims to deal with the drop in artists' income due to the cancellation or postponement of activities because of the Covid-19 pandemic.
+
 ## Zeus 
 > https://zeus-sec.herokuapp.com/
 
@@ -215,6 +251,10 @@ database with ORM integration, etc.
 
 ------------
 # CERTIFICATIONS
+
+* Microsoft Azure
+
+    [ AZ-900: Microsoft Azure Fundamentals](./assets/az900.pdf)
 
 * MONGODB
 
